@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="char.h" path="C:\HLS\HUD_PONG\char.h"/>
+    <originFiles name="hud.cpp" path="C:\HLS\HUD_PONG\hud.cpp"/>
+    <originFiles name="hud.h" path="C:\HLS\HUD_PONG\hud.h"/>
+  </source>
+  <testbench>
+    <originFiles name="tb.cpp" path="C:\HLS\HUD_PONG\tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <csimLog>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:15:40.005+0000"/>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:13:28.085+0000"/>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:10:24.800+0000"/>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:08:14.090+0000"/>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:05:22.701+0000"/>
+        <logs message="ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s)." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:02:15.840+0000"/>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T18:01:54.617+0000"/>
+        <logs message="ERROR: [SIM 211-100] CSim failed with errors." projectName="pong_score" solutionName="solution1" date="2021-01-29T17:44:04.493+0000"/>
+      </csimLog>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
